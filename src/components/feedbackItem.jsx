@@ -1,7 +1,6 @@
 import propTypes from "prop-types"; //imports specifically from font-awesome
 import Card from "./shared/Card";
-import { useContext } from "react";
-import FeedbackContext from "../context/FeedbackContext";
+
 
 function FeedbackItem({ item }) {
   

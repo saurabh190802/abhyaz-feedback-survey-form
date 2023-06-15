@@ -12,10 +12,10 @@
 </ul><ul>
 <li>React</li>
 </ul><h5>Steps</h5><ul>
-<li>git clone &lt;link of this repo&gt;</li>
+<li> ` git clone &lt;link of this repo&gt; `</li>
 </ul><ul>
-<li>npm i</li>
+<li>` npm i `</li>
 </ul><ul>
-<li>npm run start</li>
+<li>` npm run start `</li>
 </ul><h2>Contact</h2>
-<hr><p><span style="margin-right: 30px;"></span><a href="https://www.linkedin.com/in/saurabh-satapathy-692a6a1b9/"><img target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="width: 10%;"></a><span style="margin-right: 30px;"></span><a href="https://github.com/saurabh190802"><img target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="width: 10%;"></a></p>
+<hr><p><span style="margin-right: 30px;"></span><a href="https://www.linkedin.com/in/saurabh-satapathy-692a6a1b9/"><img target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="width: 10%;"></a><span style="margin-right: 30px;"></span><a href="https://github.com/saurabh190802"><img target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github.svg" style="width: 10%;"></a></p>
