@@ -12,7 +12,8 @@
 </ul><ul>
 <li>React</li>
 <h5>Steps</h5>
-- ``` git clone &lt;link of this repo&gt; ```
+
+- ``` git clone <link of this repo>```
 
 - ``` npm i ```
 
